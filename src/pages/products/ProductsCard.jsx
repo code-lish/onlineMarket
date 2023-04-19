@@ -1,6 +1,6 @@
 import { Button, Card, Col } from "react-bootstrap";
 import img4 from "../../assets/images/img4.jpg";
-import Rating from "../rating/Rating";
+import Rating from "../../components/rating/Rating";
 
 const ProductsCard = () => {
   return (

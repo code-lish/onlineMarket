@@ -1,0 +1,5 @@
+.comments-container{
+  max-height: 200px;
+  overflow-y: scroll;
+  @include scrollbars(3px, #7a7f9d);
+}

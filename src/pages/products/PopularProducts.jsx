@@ -1,7 +1,7 @@
 import { Container, Row } from "react-bootstrap";
 
-import Header from "../Header/Header";
-import ProductsCard from "./ProductsCard";
+import Header from "../../components/Header/Header";
+import ProductsCard from "../products/ProductsCard";
 
 const PopularProducts = () => {
   return (

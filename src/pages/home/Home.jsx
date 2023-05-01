@@ -9,7 +9,7 @@ const Home = () => {
       <TopNavbar />
       {/* <ShowCase />
       <PopularProducts /> */}
-      <SingleProduct />
+      {/* <SingleProduct /> */}
     </>
   );
 };
